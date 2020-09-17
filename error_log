@@ -1,0 +1,61 @@
+[09-Dec-2019 10:18:21 America/New_York] PHP Notice:  Undefined index: options in /home/escollan/public_html/software2/booking_hotel.php on line 50
+[09-Dec-2019 10:18:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/escollan/public_html/software2/booking_hotel.php on line 50
+[09-Dec-2019 10:48:31 America/New_York] PHP Warning:  include(components.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/escollan/public_html/software2/booking_hotel.php on line 37
+[09-Dec-2019 10:48:31 America/New_York] PHP Warning:  include(components.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/escollan/public_html/software2/booking_hotel.php on line 37
+[09-Dec-2019 10:48:31 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'components.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/escollan/public_html/software2/booking_hotel.php on line 37
+[09-Dec-2019 10:48:31 America/New_York] PHP Notice:  Undefined index: options in /home/escollan/public_html/software2/booking_hotel.php on line 53
+[09-Dec-2019 10:48:31 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/escollan/public_html/software2/booking_hotel.php on line 53
+[09-Dec-2019 10:49:51 America/New_York] PHP Warning:  include(components.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/escollan/public_html/software2/booking_hotel.php on line 38
+[09-Dec-2019 10:49:51 America/New_York] PHP Warning:  include(components.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/escollan/public_html/software2/booking_hotel.php on line 38
+[09-Dec-2019 10:49:51 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'components.php' for inclusion (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/escollan/public_html/software2/booking_hotel.php on line 38
+[09-Dec-2019 11:24:43 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/escollan/public_html/software2/booking_hotel.php on line 82
+[09-Dec-2019 11:25:36 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/escollan/public_html/software2/booking_hotel.php on line 82
+[09-Dec-2019 11:26:10 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/escollan/public_html/software2/booking_hotel.php on line 83
+[09-Dec-2019 11:26:40 America/Guayaquil] PHP Notice:  Undefined index: notes in /home/escollan/public_html/software2/booking_hotel.php on line 83
+[09-Dec-2019 11:26:40 America/Guayaquil] PHP Notice:  Undefined index: telefono in /home/escollan/public_html/software2/booking_hotel.php on line 84
+[09-Dec-2019 11:34:44 America/Guayaquil] PHP Notice:  Undefined index: notes in /home/escollan/public_html/software2/booking_hotel.php on line 83
+[09-Dec-2019 11:41:53 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 11:42:28 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 11:53:38 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 12:05:16 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 12:05:27 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 12:08:41 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 12:12:06 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 12:18:45 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 12:19:26 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[09-Dec-2019 14:19:46 America/Guayaquil] PHP Notice:  Undefined index: options in /home/escollan/public_html/software2/booking_hotel.php on line 69
+[09-Dec-2019 14:19:46 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home/escollan/public_html/software2/booking_hotel.php on line 69
+[29-Jan-2020 13:24:53 America/Guayaquil] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'escollan'@'localhost' (using password: YES) in /home/escollan/public_html/software2/config/config.php on line 11
+[29-Jan-2020 13:35:42 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[29-Jan-2020 13:35:42 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[29-Jan-2020 14:08:36 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[29-Jan-2020 14:08:36 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[29-Jan-2020 14:38:28 America/Guayaquil] PHP Fatal error:  Cannot redeclare class db in /home/escollan/public_html/software2/config/config.php on line 32
+[29-Jan-2020 14:39:06 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[29-Jan-2020 14:39:06 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[29-Jan-2020 21:02:08 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[29-Jan-2020 21:02:08 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[29-Jan-2020 21:02:08 America/Guayaquil] PHP Fatal error:  Cannot redeclare class db in /home/escollan/public_html/software2/config/config.php on line 32
+[29-Jan-2020 21:42:24 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[29-Jan-2020 21:42:24 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 10:11:07 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 10:11:07 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 10:41:26 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 10:41:26 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 14:13:58 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 14:13:58 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 14:19:05 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 14:19:05 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 14:19:57 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 14:19:57 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 14:26:08 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 14:26:08 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 16:01:35 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 16:01:35 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[30-Jan-2020 16:04:30 America/Guayaquil] PHP Fatal error:  Call to undefined function flush_it() in /home/escollan/public_html/software2/config/config.php on line 60
+[30-Jan-2020 16:05:42 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[30-Jan-2020 16:05:42 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[31-Jan-2020 16:28:39 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[31-Jan-2020 16:28:39 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
+[05-Feb-2020 14:48:51 America/Guayaquil] PHP Notice:  Undefined index: active in /home/escollan/public_html/software2/data/login_data.php on line 15
+[05-Feb-2020 14:48:51 America/Guayaquil] PHP Deprecated:  Function session_register() is deprecated in /home/escollan/public_html/software2/data/login_data.php on line 22
